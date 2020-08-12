@@ -1,0 +1,4 @@
+com/ihrm/company/service/impl/CompanyServiceImpl.class
+com/ihrm/company/service/impl/DepartmentServiceImpl.class
+com/ihrm/company/service/IDepartmentService.class
+com/ihrm/company/service/ICompanyService.class

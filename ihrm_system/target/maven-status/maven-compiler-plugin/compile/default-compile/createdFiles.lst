@@ -1,0 +1,11 @@
+com/ihrm/system/service/impl/PermissionServiceImpl.class
+com/ihrm/system/dao/PermissionApiDao.class
+com/ihrm/system/service/IPermissionService.class
+com/ihrm/system/dao/UserDao.class
+com/ihrm/system/service/impl/PermissionServiceImpl$1.class
+com/ihrm/system/dao/PermissionPointDao.class
+com/ihrm/system/controller/PermissionController.class
+com/ihrm/system/service/impl/UserServiceImpl.class
+com/ihrm/system/dao/PermissionDao.class
+com/ihrm/system/dao/PermissionMenuDao.class
+com/ihrm/system/SystemApplication.class
